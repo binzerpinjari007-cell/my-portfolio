@@ -20,7 +20,7 @@ st.write("---")
 # 2. About
 col1, col2 = st.columns([1, 2])
 with col1:
-    st.image("my_Photo/my_Photo.png", use_container_width=True)
+    st.image("my_photo/my_Photo.png", use_container_width=True)
 with col2:
     st.header("About Me")
     st.write("Passionate data professional dedicated to uncovering insights and driving growth. My journey has equipped me with strong technical skills in SQL, Python, Excel, Power BI, and Tableau. I excel at identifying patterns and solving complex business problems.")
